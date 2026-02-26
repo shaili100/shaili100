@@ -30,5 +30,5 @@
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-link
+- Email: your-shailitiwari248@gmail.com   
+- LinkedIn:
