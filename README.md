@@ -3,8 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpueHhvcjBuc3JlZjVyZGk2Z21jaDJuenIwYTJ5eHdycDhxZ3ZvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kDg5TLICJrbwMxJSIi/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaili100&label=Profile%20views&color=0e75b6&style=flat" alt="shaili100" /> </p>
 
-- 📫 How to reach me **shailitiwari248@gmail.com**
-
 - ⚡ Fun fact **Tech Enthusiastic**
 
 <h3 align="left">Connect with me:</h3>
