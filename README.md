@@ -23,6 +23,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaili100&" alt="shaili100" /></p>
 
 
-## 📫 Contact
-- Email: your-shailitiwari248@gmail.com   
-- LinkedIn:
